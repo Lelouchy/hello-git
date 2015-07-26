@@ -1,2 +1,2 @@
 # hello-git
-My first repository ongGitHub
+My first repository on GitHub!
